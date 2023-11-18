@@ -27,5 +27,8 @@ Code:6  New Constructor with Initilization
 
 https://edaplayground.com/x/cfCs
 
+Code:7  New Constructor with default input argument
+
+https://edaplayground.com/x/vQLq
 
 
