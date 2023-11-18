@@ -22,8 +22,10 @@ https://edaplayground.com/x/V7JT
 Code:5  New Constructor
 
   https://edaplayground.com/x/RKrk
+  
+Code:6  New Constructor with Initilization
 
-
+https://edaplayground.com/x/cfCs
 
 
 
