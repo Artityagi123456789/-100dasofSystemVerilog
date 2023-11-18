@@ -18,3 +18,12 @@ https://edaplayground.com/x/U2jg
 Code:4  memory allocation happens for static properties and methods
 
 https://edaplayground.com/x/V7JT
+
+Code:5  New Constructor
+
+  https://edaplayground.com/x/RKrk
+
+
+
+
+
