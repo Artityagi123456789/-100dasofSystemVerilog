@@ -15,3 +15,6 @@ https://edaplayground.com/x/eEA3
 
 https://edaplayground.com/x/U2jg
 
+Code:4 memory allocation happens for static properties and methods
+
+https://edaplayground.com/x/V7JT
