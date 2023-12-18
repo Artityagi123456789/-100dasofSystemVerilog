@@ -38,7 +38,25 @@ https://edaplayground.com/x/vQLq
 
 https://edaplayground.com/x/DFDK
 
+Code:10 Fixed Size(static Array) in System Verilog
 
+https://edaplayground.com/x/MsU5
+
+Code:11 typedef in system verilog
+
+https://edaplayground.com/x/Nx4X
+
+Code:12 struct data type in System Verilog
+
+https://edaplayground.com/x/EMe7
+
+Code:13 Union in system verilog
+
+https://edaplayground.com/x/CnPP
+
+Code:14 $Cast in System Verilog
+
+https://edaplayground.com/x/djfZ
 
 
 
