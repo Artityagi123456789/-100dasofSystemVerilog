@@ -89,10 +89,11 @@ https://edaplayground.com/x/PUsj
 Code:28  Array using Function.sv
 https://edaplayground.com/x/dX7m
 
+Code29: Oops: function using constructor.sv
+https://edaplayground.com/x/VUWR
 
-
-
-
+Code30: Oops: new Constructor with argument.sv
+https://edaplayground.com/x/P4EH
 
 
 
