@@ -86,7 +86,8 @@ https://edaplayground.com/x/jxNy
 Code27: restrict access to variables_pass by.sv
 https://edaplayground.com/x/PUsj
 
-
+Code:28  Array using Function.sv
+https://edaplayground.com/x/dX7m
 
 
 
