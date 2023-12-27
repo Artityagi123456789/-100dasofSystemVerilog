@@ -101,6 +101,29 @@ https://edaplayground.com/x/Mvc2
 Code32:Oops: Add Multiple_argument Constructor2.sv
 https://edaplayground.com/x/LMMJ
 
+Code33: How to use task inside Class.sv
+https://edaplayground.com/x/pu4z
+
+Code34: Oops: Using class inside class.sv
+https://edaplayground.com/x/jZqu
+
+Code35:Oops_local_Scope_data_member.sv
+https://edaplayground.com/x/8XJF
+
+Code36: Oops_Copy Object.sv
+https://edaplayground.com/x/tib8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
