@@ -49,3 +49,29 @@ https://edaplayground.com/x/PvBh
 
 Code16: Dyanamic_Arraay declaration.sv
 https://edaplayground.com/x/8nNu
+
+Code17: Dynamic ,Resize Array_Value.sv
+https://edaplayground.com/x/P3qe
+
+Code18: Dynamic array value copy fixed size Aray.s
+https://edaplayground.com/x/qDE5
+
+code19: Queue_initialization.sv
+https://edaplayground.com/x/6gLn
+
+code20: Queue_method.sv
+https://edaplayground.com/x/PRUk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
