@@ -95,11 +95,11 @@ https://edaplayground.com/x/VUWR
 Code30: Oops: new Constructor with argument.sv
 https://edaplayground.com/x/P4EH
 
+Code31:Oops: Add Multiple_argument Constructor.sv
+https://edaplayground.com/x/Mvc2
 
-
-
-
-
+Code32:Oops: Add Multiple_argument Constructor2.sv
+https://edaplayground.com/x/LMMJ
 
 
 
