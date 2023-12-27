@@ -62,11 +62,11 @@ https://edaplayground.com/x/6gLn
 code20: Queue_methods.sv
 https://edaplayground.com/x/PRUk
 
+code21: Oops _Class declaration.sv
+https://edaplayground.com/x/LTWB
 
-
-
-
-
+code22: Oops _inside Class add data vlue.sv
+https://edaplayground.com/x/et4j
 
 
 
