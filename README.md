@@ -113,8 +113,8 @@ https://edaplayground.com/x/8XJF
 Code36: Oops_Copy Object.sv
 https://edaplayground.com/x/tib8
 
-
-
+Code:37 Oops_Custum_method_copy_object.sv
+https://edaplayground.com/x/P4J9
 
 
 
