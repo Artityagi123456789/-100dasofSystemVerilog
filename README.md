@@ -65,11 +65,14 @@ https://edaplayground.com/x/PRUk
 code21: Oops _Class declaration.sv
 https://edaplayground.com/x/LTWB
 
-code22: Oops _inside Class add data vlue.sv
+code22: Oops _inside Class add data value.sv
 https://edaplayground.com/x/et4j
 
+Code23: Usage of Function.sv
+https://edaplayground.com/x/P43w
 
-
+Code:24 Usage_of Task.sv
+https://edaplayground.com/x/P47S
 
 
 
