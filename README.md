@@ -74,7 +74,7 @@ https://edaplayground.com/x/P43w
 Code:24 Usage_of Task.sv
 https://edaplayground.com/x/P47S
 
-
-
+Code24: Uasge of Task i multiple way.sv
+https://edaplayground.com/x/AuiY
 
 
