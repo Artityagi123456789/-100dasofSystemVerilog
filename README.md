@@ -44,7 +44,8 @@ https://edaplayground.com/x/CnPP
 Code:14 $Cast in System Verilog
 https://edaplayground.com/x/djfZ
 
-Day22: Compare Array value.sv
+Code15: Compare Array value.sv
 https://edaplayground.com/x/PvBh
 
-
+Code16: Dyanamic_Arraay declaration.sv
+https://edaplayground.com/x/8nNu
