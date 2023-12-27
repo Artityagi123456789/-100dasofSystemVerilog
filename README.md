@@ -59,7 +59,7 @@ https://edaplayground.com/x/qDE5
 code19: Queue_initialization.sv
 https://edaplayground.com/x/6gLn
 
-code20: Queue_method.sv
+code20: Queue_methods.sv
 https://edaplayground.com/x/PRUk
 
 
