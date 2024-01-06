@@ -131,6 +131,23 @@ https://edaplayground.com/x/P72a
 Code:42 constraint_snipt_code5.sv
 https://edaplayground.com/x/P72w
 
+Code:43 Assertion for glitch.sv
+https://edaplayground.com/x/iJtK
+
+Code:44 Assertion: never_assert.sv
+https://edaplayground.com/x/P9Qi
+
+Code:45 Assertion_clk.sv
+https://edaplayground.com/x/hqBN
+
+Code:46 Assertion_for _idle_start_state.sv
+https://edaplayground.com/x/pkjc
+
+
+
+
+
+
 
 
 
