@@ -116,9 +116,20 @@ https://edaplayground.com/x/tib8
 Code:37 Oops_Custum_method_copy_object.sv
 https://edaplayground.com/x/P4J9
 
+Code:38 constraint_snipt_1.sv
+https://edaplayground.com/x/DpeS
 
+Code:39 Constraint_code_snipt2.sv
+https://edaplayground.com/x/iRvu
 
+Code:40 Constraint_code_snipt3.sv
+https://edaplayground.com/x/eeUC
 
+Code:41 constraint_code_snipt4.sv
+https://edaplayground.com/x/P72a
+
+Code:42 constraint_snipt_code5.sv
+https://edaplayground.com/x/P72w
 
 
 
