@@ -146,8 +146,8 @@ https://edaplayground.com/x/pkjc
 Code:47 Constraint_varible size.sv
 https://edaplayground.com/x/bDmz
 
-
-
+Code:48 Constraint_Fibonacci series.sv
+https://edaplayground.com/x/tUE_
 
 
 
