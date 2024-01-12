@@ -143,7 +143,8 @@ https://edaplayground.com/x/hqBN
 Code:46 Assertion_for _idle_start_state.sv
 https://edaplayground.com/x/pkjc
 
-
+Code:47 Constraint_varible size.sv
+https://edaplayground.com/x/bDmz
 
 
 
