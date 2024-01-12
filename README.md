@@ -149,8 +149,8 @@ https://edaplayground.com/x/bDmz
 Code:48 Constraint_Fibonacci series.sv
 https://edaplayground.com/x/tUE_
 
-
-
+Code:50 Constrain for uniqe number.sv
+https://edaplayground.com/x/K8aH
 
 
 
