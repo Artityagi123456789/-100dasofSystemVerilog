@@ -152,8 +152,8 @@ https://edaplayground.com/x/tUE_
 Code:50 Constrain for uniqe number.sv
 https://edaplayground.com/x/K8aH
 
-
-
+Day:51 UpDown_counter using Clocking Block.sv
+https://edaplayground.com/x/PX9j
 
 
 
