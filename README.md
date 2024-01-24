@@ -155,6 +155,7 @@ https://edaplayground.com/x/K8aH
 Day:51 UpDown_counter using Clocking Block.sv
 https://edaplayground.com/x/PX9j
 
-
+Day:53 Costraint_Pattern_genration.sv
+https://edaplayground.com/x/cfN_
 
 
